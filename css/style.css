@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Changa+One&display=swap");
+
+html {
+  scroll-behavior: smooth;
+}
+
+.logo-font-family,
+h1 {
+  font-family: "Changa One", cursive;
+}
+
+.bi-credit-card {
+  color: #008080;
+}
+
+.card-width {
+  width: 18rem;
+}
+
+.carousel-inner {
+  max-height: 75vh;
+}
+
+@media (min-width: 991px) {
+  .list-group {
+    width: 75%;
+  }
+}
